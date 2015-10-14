@@ -33,12 +33,9 @@ and later link in your HTML:
 var is = require('fn-is');
 
 // raw method
-
 is(true, 'boolean'); => true
 
-
 // You can use lowercase or capitalize shorcut by type method
-
 is.boolean(true); // => true
 is.Boolean(true); // => true
 is.String([]); // => false
