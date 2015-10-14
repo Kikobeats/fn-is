@@ -1,0 +1,54 @@
+{
+  "name": "fn-is",
+  "description": "Ask for a type, returns a true/false as answer.",
+  "homepage": "https://github.com/Kikobeats/fn-is",
+  "version": "0.0.0",
+  "main": "./index.js",
+  "author": {
+    "email": "josefrancisco.verdu@gmail.com",
+    "name": "Kiko Beats",
+    "url": "https://github.com/Kikobeats"
+  },
+  "repository": "Kikobeats/fn-is",
+  "bugs": {
+    "url": "https://github.com/Kikobeats/fn-is/issues"
+  },
+  "keywords": [
+    "array",
+    "boolean",
+    "date",
+    "function",
+    "is",
+    "number",
+    "object",
+    "regexp",
+    "string",
+    "typeof"
+  ],
+  "dependencies": {
+    "capitalize": "latest",
+    "fn-partial": "latest",
+    "fn-typeof": "latest"
+  },
+  "devDependencies": {
+    "browserify": "latest",
+    "coffee-script": "latest",
+    "coffeeify": "latest",
+    "gulp": "latest",
+    "gulp-header": "latest",
+    "gulp-uglify": "latest",
+    "gulp-util": "latest",
+    "mocha": "latest",
+    "should": "latest",
+    "vinyl-buffer": "latest",
+    "vinyl-source-stream": "latest"
+  },
+  "engines": {
+    "node": ">= 0.10.0",
+    "npm": ">= 1.4.0"
+  },
+  "scripts": {
+    "test": "sh test/test.sh"
+  },
+  "license": "MIT"
+}
