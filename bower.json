@@ -2,7 +2,7 @@
   "name": "fn-is",
   "description": "Ask for a type, returns a true/false as answer.",
   "homepage": "https://github.com/Kikobeats/fn-is",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "main": "./dist/fn-is.js",
   "authors": [
     {
