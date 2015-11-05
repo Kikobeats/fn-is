@@ -1,10 +1,10 @@
-# fn-isType
+# fn-istype
 
-![Last version](https://img.shields.io/github/tag/Kikobeats/fn-isType.svg?style=flat-square)
-[![Build Status](http://img.shields.io/travis/Kikobeats/fn-isType/master.svg?style=flat-square)](https://travis-ci.org/Kikobeats/fn-isType)
-[![Dependency status](http://img.shields.io/david/Kikobeats/fn-isType.svg?style=flat-square)](https://david-dm.org/Kikobeats/fn-isType)
-[![Dev Dependencies Status](http://img.shields.io/david/dev/Kikobeats/fn-isType.svg?style=flat-square)](https://david-dm.org/Kikobeats/fn-isType#info=devDependencies)
-[![NPM Status](http://img.shields.io/npm/dm/fn-isType.svg?style=flat-square)](https://www.npmjs.org/package/fn-isType)
+![Last version](https://img.shields.io/github/tag/Kikobeats/fn-istype.svg?style=flat-square)
+[![Build Status](http://img.shields.io/travis/Kikobeats/fn-istype/master.svg?style=flat-square)](https://travis-ci.org/Kikobeats/fn-istype)
+[![Dependency status](http://img.shields.io/david/Kikobeats/fn-istype.svg?style=flat-square)](https://david-dm.org/Kikobeats/fn-istype)
+[![Dev Dependencies Status](http://img.shields.io/david/dev/Kikobeats/fn-istype.svg?style=flat-square)](https://david-dm.org/Kikobeats/fn-istype#info=devDependencies)
+[![NPM Status](http://img.shields.io/npm/dm/fn-istype.svg?style=flat-square)](https://www.npmjs.org/package/fn-istype)
 [![Donate](https://img.shields.io/badge/donate-paypal-blue.svg?style=flat-square)](https://paypal.me/Kikobeats)
 
 > Ask for a type, returns a true / false as answer.
@@ -12,25 +12,25 @@
 ## Install
 
 ```bash
-npm install fn-isType --save
+npm install fn-istype --save
 ```
 
 If you want to use in the browser (powered by [Browserify](http://browserify.org/)):
 
 ```bash
-bower install fn-isType --save
+bower install fn-istype --save
 ```
 
 and later link in your HTML:
 
 ```html
-<script src="bower_components/fn-isType/dist/fn-isType.js"></script>
+<script src="bower_components/fn-istype/dist/fn-istype.js"></script>
 ```
 
 ## Usage
 
 ```js
-var isType = require('fn-isType');
+var isType = require('fn-istype');
 
 // raw method
 isType(true, 'boolean'); => true

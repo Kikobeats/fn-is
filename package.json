@@ -1,7 +1,7 @@
 {
-  "name": "fn-isType",
+  "name": "fn-istype",
   "description": "Ask for a type, returns a true/false as answer.",
-  "homepage": "https://github.com/Kikobeats/fn-isType",
+  "homepage": "https://github.com/Kikobeats/fn-istype",
   "version": "1.0.0",
   "main": "./index.js",
   "author": {
@@ -9,9 +9,9 @@
     "name": "Kiko Beats",
     "url": "https://github.com/Kikobeats"
   },
-  "repository": "Kikobeats/fn-isType",
+  "repository": "Kikobeats/fn-istype",
   "bugs": {
-    "url": "https://github.com/Kikobeats/fn-isType/issues"
+    "url": "https://github.com/Kikobeats/fn-istype/issues"
   },
   "keywords": [
     "array",
