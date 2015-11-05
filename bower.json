@@ -1,9 +1,9 @@
 {
-  "name": "fn-is",
+  "name": "fn-isType",
   "description": "Ask for a type, returns a true/false as answer.",
-  "homepage": "https://github.com/Kikobeats/fn-is",
+  "homepage": "https://github.com/Kikobeats/fn-isType",
   "version": "1.0.0",
-  "main": "./dist/fn-is.js",
+  "main": "./dist/fn-isType.js",
   "authors": [
     {
       "name": "Kiko Beats",
@@ -11,11 +11,23 @@
       "homepage": "https://github.com/Kikobeats"
     }
   ],
-  "repository": "Kikobeats/fn-is",
+  "repository": "Kikobeats/fn-isType",
   "bugs": {
-    "url": "https://github.com/Kikobeats/fn-is/issues"
+    "url": "https://github.com/Kikobeats/fn-isType/issues"
   },
-  "keywords": [],
+  "keywords": [
+    "array",
+    "boolean",
+    "date",
+    "function",
+    "is",
+    "number",
+    "object",
+    "regexp",
+    "string",
+    "type",
+    "typeof"
+  ],
   "ignore": [
     "**/.*",
     "bower_components",
