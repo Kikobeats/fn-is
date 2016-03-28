@@ -27,9 +27,9 @@
     "typeof"
   ],
   "dependencies": {
-    "capitalize": "latest",
-    "fn-partial": "latest",
-    "fn-typeof": "latest"
+    "capitalize": "~1.0.0",
+    "fn-partial": "~0.12.12",
+    "fn-typeof": "~1.1.0"
   },
   "devDependencies": {
     "browserify": "latest",
@@ -45,11 +45,11 @@
     "vinyl-source-stream": "latest"
   },
   "engines": {
-    "node": ">= 0.10.0",
-    "npm": ">= 1.4.0"
+    "node": ">= 0.10"
   },
   "scripts": {
-    "test": "sh test/test.sh"
+    "pretest": "standard index.js",
+    "test": "mocha"
   },
   "license": "MIT"
 }
