@@ -2,7 +2,7 @@
   "name": "fn-istype",
   "description": "Ask for a type, returns a true/false as answer.",
   "homepage": "https://github.com/Kikobeats/fn-istype",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "./dist/fn-istype.js",
   "authors": [
     {
@@ -11,7 +11,10 @@
       "homepage": "https://github.com/Kikobeats"
     }
   ],
-  "repository": "Kikobeats/fn-istype",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kikobeats/fn-istype.git"
+  },
   "bugs": {
     "url": "https://github.com/Kikobeats/fn-istype/issues"
   },
