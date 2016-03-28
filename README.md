@@ -43,6 +43,12 @@ isType.String([]); // => false
 
 Here a [list](https://github.com/Kikobeats/fn-typeof/blob/master/index.js#L22) of types supported.
 
+## Related
+
+## Related
+
+* [fn-type](https://github.com/Kikobeats/fn-type) – Get the type of something. Seriously.
+
 ## License
 
 MIT © [Kiko Beats](http://kikobeats.com)
