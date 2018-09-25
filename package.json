@@ -30,7 +30,7 @@
     "typeof"
   ],
   "dependencies": {
-    "capitalize": "~1.0.0",
+    "capitalize": "~2.0.0",
     "fn-partial": "~0.12.12",
     "fn-typeof": "~1.1.0"
   },
